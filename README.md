@@ -27,7 +27,7 @@
 
 ## About
 
-Password Strength Checker is a web application that allows users to check the strength of their passwords. It provides visual feedback on the strength of the password based on various criteria, including length, the presence of uppercase letters, lowercase letters, numbers, and special characters.
+Password Strength Checker is a web application that allows users to check the strength of their passwords. It provides visual feedback on the strength of the password based on various criteria, including length, the presence of uppercase letters, lowercase letters, numbers, and special characters.  This project was created by [devHanif](https://github.com/devHanif-git) as a practice project to improve HTML, CSS, and JavaScript skills.
 
 ## Features
 
